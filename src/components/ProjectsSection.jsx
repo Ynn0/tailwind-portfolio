@@ -122,7 +122,8 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href=""
+            href="/projects/Mark-Anthonny-Dapadap-CV.pdf"
+            download="Mark-Anthonny-Dapadap-CV.pdf"
           >
             Check Resume <ArrowRight size={16} />
           </a>
